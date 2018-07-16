@@ -1,3 +1,10 @@
+/*
+Idex: p.105
+Title: Calculate Prime Factorization
+Description: Given n, let's calculate prime factorization of n
+Time Complexity: O(size of n), It depends on size of n
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
