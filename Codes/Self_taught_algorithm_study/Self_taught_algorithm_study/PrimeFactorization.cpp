@@ -7,10 +7,12 @@ Time Complexity: O(size of n), It depends on size of n
 
 #include <iostream>
 #include <vector>
+#include <ctime>
+#include <cstdlib>
 using namespace std;
 
 int getRandValue() {
-	return rand() % 1000 + 1;
+	return rand() % 10000 + 1;
 }
 
 vector<int> factor(int n) {
@@ -27,6 +29,7 @@ vector<int> factor(int n) {
 }
 
 int main() {
+	srand((unsigned int)time(NULL));
 	int n = getRandValue();
 	vector<int> ret = factor(n);
 	cout << "n: " << n << endl;
