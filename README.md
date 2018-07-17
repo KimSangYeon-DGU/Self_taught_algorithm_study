@@ -3,9 +3,9 @@ This is repository on studying algorithm and data structure.
 
 # Uploaded Algorithms List
 - **Sort**
+  - Insertion sort
 
-Insertion sort
-Selection sort
+- Selection sort
 
 ## Search
 Sequential search 
