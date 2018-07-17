@@ -9,7 +9,7 @@ This is repository on studying algorithm and data structure.
 - **Search**
   - Sequential search 
 
-- **Math**
+- **Mathematics**
   - Prime factorization
   - Moving average
 
