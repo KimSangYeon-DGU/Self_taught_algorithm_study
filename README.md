@@ -3,7 +3,7 @@ This is repository on studying algorithm and data structure.
 
 # [Uploaded Algorithms List](Codes/)
 - **Sort**
-  - [Insertion sort, O(N<sup>2</sup>)](Codes/InsertionSort.cpp)
+  - [Insertion sort, <b>O(N<sup>2</sup>)</b>](Codes/InsertionSort.cpp)
   - [Selection sort, O(N<sup>2</sup>)](Codes/SelectionSort.cpp)
 
 - **Search**
