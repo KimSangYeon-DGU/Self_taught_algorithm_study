@@ -1,15 +1,15 @@
 # Self_taught_algorithm_study
 This is repository on studying algorithm and data structure. 
 
-# [Uploaded Algorithms List](Codes/Self_taught_algorithm_study/Self_taught_algorithm_study/)
+# [Uploaded Algorithms List](Codes/)
 - **Sort**
-  - Insertion sort
-  - Selection sort
+  - [Insertion sort](Codes/InsertionSort.cpp)
+  - [Selection sort](Codes/SelectionSort.cpp)
 
 - **Search**
-  - Sequential search 
+  - [Sequential search](Codes/SequentialSearch.cpp)
 
-- **Math**
-  - Prime factorization
-  - Moving average
+- **Mathematics**
+  - [Prime factorization](Codes/PrimeFactorization.cpp)
+  - [Moving average](Codes/MovingAverage.cpp)
 
