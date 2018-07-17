@@ -4,12 +4,12 @@ This is repository on studying algorithm and data structure.
 # [Uploaded Algorithms List](Codes/)
 - **Sort**
   - [Insertion sort](Codes/InsertionSort.cpp)
-  - Selection sort
+  - [Selection sort](Codes/SelectionSort.cpp)
 
 - **Search**
-  - Sequential search 
+  - Sequential search(Codes/SequentialSearch.cpp)
 
 - **Mathematics**
-  - Prime factorization
-  - Moving average
+  - Prime factorization(Codes/PrimeFactorization.cpp)
+  - Moving average(Codes/MovingAverage.cpp)
 
