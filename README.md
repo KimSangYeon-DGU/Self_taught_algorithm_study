@@ -1,7 +1,7 @@
 # Self_taught_algorithm_study
 This is repository on studying algorithm and data structure. 
 
-# Uploaded Algorithms List
+[# Uploaded Algorithms List](Codes/)
 - **Sort**
   - Insertion sort
   - Selection sort
