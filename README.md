@@ -5,10 +5,10 @@ This is repository on studying algorithm and data structure.
 - **Sort**
   - Insertion sort
 
-- Selection sort
+  - Selection sort
 
-## Search
-Sequential search 
+-**Search**
+  - Sequential search 
 
 ## Math
 Prime factorization
