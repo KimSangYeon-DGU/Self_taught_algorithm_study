@@ -7,9 +7,9 @@ This is repository on studying algorithm and data structure.
   - [Selection sort](Codes/SelectionSort.cpp)
 
 - **Search**
-  - Sequential search(Codes/SequentialSearch.cpp)
+  - [Sequential search](Codes/SequentialSearch.cpp)
 
 - **Mathematics**
-  - Prime factorization(Codes/PrimeFactorization.cpp)
-  - Moving average(Codes/MovingAverage.cpp)
+  - [Prime factorization](Codes/PrimeFactorization.cpp)
+  - [Moving average](Codes/MovingAverage.cpp)
 
