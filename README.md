@@ -7,10 +7,10 @@ This is repository on studying algorithm and data structure.
 
   - Selection sort
 
--**Search**
+- **Search**
   - Sequential search 
 
-## Math
-Prime factorization
-Moving average
+- **Math**
+  - Prime factorization
+  - Moving average
 
