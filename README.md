@@ -4,13 +4,13 @@ This is repository on studying algorithm and data structure.
 # [Uploaded Algorithms List](Codes/)
 - **Sort**
   - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
-  - [Selection sort, O(N<sup>2</sup>)](Codes/SelectionSort.cpp)
+  - [Selection sort, <i>O(N<sup>2</sup>)</i>](Codes/SelectionSort.cpp)
 
 - **Search**
-  - [Sequential search, O(N)](Codes/SequentialSearch.cpp)
+  - [Sequential search, <i>O(N)</i>](Codes/SequentialSearch.cpp)
 
 - **Mathematics**
-  - [Prime factorization, O(size of number)](Codes/PrimeFactorization.cpp)
-  - [Moving average 1, O(N*M)](Codes/MovingAverage1.cpp)
-  - [Moving average 2, O(N)](Codes/MovingAverage2.cpp)
+  - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
+  - [Moving average 1, <i>O(N*M)</i>](Codes/MovingAverage1.cpp)
+  - [Moving average 2, <i>O(N)</i>](Codes/MovingAverage2.cpp)
 
