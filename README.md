@@ -4,7 +4,7 @@ This is repository on studying algorithm and data structure.
 # [Uploaded Algorithms List](Codes/)
 - **Sort**
   - [Insertion sort, <b>O(N<sup>2</sup>)</b>](Codes/InsertionSort.cpp)
-  - [Selection sort, O(N<sup>2</sup>)](Codes/SelectionSort.cpp)
+  - [<b>Selection sort</b>, O(N<sup>2</sup>)](Codes/SelectionSort.cpp)
 
 - **Search**
   - [Sequential search, O(N)](Codes/SequentialSearch.cpp)
