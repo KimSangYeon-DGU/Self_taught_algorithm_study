@@ -2,7 +2,8 @@
 This is repository on studying algorithm and data structure. 
 
 # Uploaded Algorithms List
-- **Sort**:
+- **Sort**
+
 Insertion sort
 Selection sort
 
