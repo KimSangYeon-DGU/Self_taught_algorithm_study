@@ -1,6 +1,9 @@
 # Self_taught_algorithm_study
 This is repository on studying algorithm and data structure. 
 
+# What is an Algorithm?
+- The algorithm is a reasonable specification to solve given problems.
+
 # [Uploaded Algorithms List](Codes/)
 - **Sort**
   - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
