@@ -17,3 +17,7 @@ This is repository on studying algorithm and data structure.
   - [Moving average 1, <i>O(N*M)</i>](Codes/MovingAverage1.cpp)
   - [Moving average 2, <b><i>O(N)</i></b>](Codes/MovingAverage2.cpp)
 
+# Time Complexity Graph
+<p align="center">
+    <img src="images/time_complexity_graph.png", width="480">
+</p>
