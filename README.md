@@ -2,7 +2,7 @@
 - This is a repository on studying algorithm and data structure. 
 
 # What is an Algorithm?
-- The algorithm is a reasonable specification to solve given problem.
+- The algorithm is a reasonable specification to solve a given problem.
 
 # [Uploaded Algorithms List](Codes/)
 - **Sort**
