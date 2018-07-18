@@ -19,5 +19,5 @@ This is repository on studying algorithm and data structure.
 
 # Time Complexity Graph
 <p align="center">
-    <img src="images/time_complexity_graph.png", width="480">
+    <img src="Images/time_complexity_graph.png", width="480">
 </p>
