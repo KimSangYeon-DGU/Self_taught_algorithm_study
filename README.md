@@ -21,3 +21,4 @@ This is repository on studying algorithm and data structure.
 <p align="center">
     <img src="Images/time_complexity_graph.png", width="480">
 </p>
+image link: https://en.wikipedia.org/wiki/Time_complexity
