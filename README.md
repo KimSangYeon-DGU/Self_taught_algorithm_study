@@ -1,5 +1,5 @@
 # Self_taught_algorithm_study
-- This is repository on studying algorithm and data structure. 
+- This is a repository on studying algorithm and data structure. 
 
 # What is an Algorithm?
 - The algorithm is a reasonable specification to solve given problem.
