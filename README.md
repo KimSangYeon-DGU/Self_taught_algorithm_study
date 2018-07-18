@@ -1,4 +1,4 @@
-# Self_taught_algorithm_study
+# Self-taught Algorithm Study
 - This is repository on studying algorithm and data structure, and recording useful documents, source codes, papers, and links, etc. 
 
 # What is an Algorithm?
