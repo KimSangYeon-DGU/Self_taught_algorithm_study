@@ -5,7 +5,7 @@
 - The algorithm is a reasonable specification to solve a given problem.
 
 # Why do you make this repository?
-- I want to provide the most efficient study road map through trial and error.
+- Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient study road map.
 
 # [Uploaded Algorithms List](Codes/)
 - **Sort**
