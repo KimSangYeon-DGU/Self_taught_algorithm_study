@@ -23,7 +23,7 @@
   - [Max sum, <i>O(NlogN)</i>](Codes/MaxSum3.cpp)
   
 - **Dynamic Programming**
-  - [Max sum, <i>O(N)</i>](Codes/MaxSum4.cpp)
+  - [Max sum, <b><i>O(N)</i></b>](Codes/MaxSum4.cpp)
 
 - **Mathematics**
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
