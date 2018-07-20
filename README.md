@@ -27,8 +27,8 @@
 
 - **Mathematics**
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
-  - [Moving average 1, <i>O(N*M)</i>](Codes/MovingAverage1.cpp)
-  - [Moving average 2, <b><i>O(N)</i></b>](Codes/MovingAverage2.cpp)
+  - [Moving average, <i>O(N*M)</i>](Codes/MovingAverage1.cpp)
+  - [Moving average, <b><i>O(N)</i></b>](Codes/MovingAverage2.cpp)
 
 # Time Complexity Graph
 <p align="center">
