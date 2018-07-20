@@ -8,13 +8,6 @@
 - Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient study road map.
 
 # [Uploaded Algorithms List](Codes/)
-- **Sort**
-  - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
-  - [Selection sort, <i>O(N<sup>2</sup>)</i>](Codes/SelectionSort.cpp)
-
-- **Search**
-  - [Sequential search, <i>O(N)</i>](Codes/SequentialSearch.cpp)
-
 - **Brute force**
   - [Max sum, <i>O(N<sup>3</sup>)</i>](Codes/MaxSum1.cpp)
   - [Max sum, <i>O(N<sup>2</sup>)</i>](Codes/MaxSum2.cpp)
@@ -29,6 +22,14 @@
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
   - [Moving average, <i>O(N*M)</i>](Codes/MovingAverage1.cpp)
   - [Moving average, <b><i>O(N)</i></b>](Codes/MovingAverage2.cpp)
+  
+- **Sort**
+  - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
+  - [Selection sort, <i>O(N<sup>2</sup>)</i>](Codes/SelectionSort.cpp)
+
+- **Search**
+  - [Sequential search, <i>O(N)</i>](Codes/SequentialSearch.cpp)
+
 
 # Time Complexity Graph
 <p align="center">
