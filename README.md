@@ -4,6 +4,9 @@
 # What is an Algorithm?
 - The algorithm is a reasonable specification to solve a given problem.
 
+# Why do you make this repository?
+- Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient study road map.
+
 # [Uploaded Algorithms List](Codes/)
 - **Sort**
   - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
