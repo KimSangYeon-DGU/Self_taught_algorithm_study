@@ -3,6 +3,9 @@
 
 # What is an Algorithm?
 - The algorithm is a reasonable specification to solve a given problem.
+<p align="center">
+    <img src="Images/process.png", width="256">
+</p>
 
 # Why do you make this repository?
 - Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient study road map.
