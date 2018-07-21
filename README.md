@@ -25,6 +25,7 @@
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
   - [Moving average, <i>O(N*M)</i>](Codes/MovingAverage1.cpp)
   - [Moving average, <b><i>O(N)</i></b>](Codes/MovingAverage2.cpp)
+  - [BigMultiplication, <b><i>O(N<sup>2</sup>)</i></b>](Codes/BigNumberMultiplication.cpp)
   
 - **Sort**
   - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
