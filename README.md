@@ -26,7 +26,7 @@
   - [Moving average, <i>O(N*M)</i>](Codes/MovingAverage1.cpp)
   - [Moving average, <b><i>O(N)</i></b>](Codes/MovingAverage2.cpp)
   - [Big multiplication, <i>O(N<sup>2</sup>)</i>](Codes/BigNumberMultiplication.cpp)
-  - [Big multiplication using Karatsuba Algorithm, <i>O(N<sup>log3</sup>)</i>](Codes/KaratsubaFastMultiplication.cpp)
+  - [Big multiplication using Karatsuba Algorithm, <b><i>O(N<sup>log3</sup>)</i></b>](Codes/KaratsubaFastMultiplication.cpp)
   
 - **Sort**
   - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
