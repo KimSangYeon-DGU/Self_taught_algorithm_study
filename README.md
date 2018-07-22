@@ -36,7 +36,7 @@
   - [Selection sort, <i>O(N<sup>2</sup>)</i>](Codes/SelectionSort.cpp)
 
 - **Search**
-  - [Sequential search, <i>O(N)</i>](Codes/SequentialSearch.cpp)
+  - [Sequential search, <b><i>O(N)</i></b>](Codes/SequentialSearch.cpp)
 
 
 # Time Complexity Graph
