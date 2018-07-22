@@ -14,9 +14,11 @@
 - **Brute force**
   - [Max sum, <i>O(N<sup>3</sup>)</i>](Codes/MaxSum1.cpp)
   - [Max sum, <i>O(N<sup>2</sup>)</i>](Codes/MaxSum2.cpp)
+  - [Big number multiplication, <i>O(N<sup>2</sup>)</i>](Codes/BigNumberMultiplication.cpp)
 
 - **Divide and Conquer**
   - [Max sum, <i>O(NlogN)</i>](Codes/MaxSum3.cpp)
+  - [Big number multiplication using Karatsuba Algorithm, <b><i>O(N<sup>log3</sup>)</i></b>](Codes/KaratsubaFastMultiplication.cpp)
   
 - **Dynamic Programming**
   - [Max sum, <b><i>O(N)</i></b>](Codes/MaxSum4.cpp)
@@ -25,8 +27,6 @@
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
   - [Moving average, <i>O(N*M)</i>](Codes/MovingAverage1.cpp)
   - [Moving average, <b><i>O(N)</i></b>](Codes/MovingAverage2.cpp)
-  - [Big number multiplication, <i>O(N<sup>2</sup>)</i>](Codes/BigNumberMultiplication.cpp)
-  - [Big number multiplication using Karatsuba Algorithm, <b><i>O(N<sup>log3</sup>)</i></b>](Codes/KaratsubaFastMultiplication.cpp)
   
 - **Sort**
   - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
