@@ -32,8 +32,8 @@
   - [Big number multiplication, <i>O(N<sup>2</sup>)</i>](Codes/BigNumberMultiplication.cpp)
   
 - **Sort**
-  - [Insertion sort, <i>O(N<sup>2</sup>)</i>](Codes/InsertionSort.cpp)
-  - [Selection sort, <i>O(N<sup>2</sup>)</i>](Codes/SelectionSort.cpp)
+  - [Insertion sort, <b><i>O(N<sup>2</sup></b>)</i>](Codes/InsertionSort.cpp)
+  - [Selection sort, <b><i>O(N<sup>2</sup></b>)</i>](Codes/SelectionSort.cpp)
 
 - **Search**
   - [Sequential search, <b><i>O(N)</i></b>](Codes/SequentialSearch.cpp)
