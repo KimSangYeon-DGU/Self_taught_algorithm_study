@@ -15,6 +15,7 @@
   - [Max sum, <i>O(N<sup>3</sup>)</i>](Codes/MaxSum1.cpp)
   - [Max sum, <i>O(N<sup>2</sup>)</i>](Codes/MaxSum2.cpp)
   - [Wild card, <i>O(N<sup>3</sup>)</i>](Codes/WildCard1.cpp)
+  - [LIS(Longest Increasing Subsequence), <i>O(N<sup>3</sup>)</i>](Codes/LIS1.cpp)
 
 - **Divide and Conquer**
   - [Max sum, <i>O(NlogN)</i>](Codes/MaxSum3.cpp)
@@ -26,6 +27,8 @@
   - [Wild card, <b><i>O(N<sup>2</sup>)</i></b>](Codes/WildCard3.cpp)
   - [Triangle path, <i>O(2<sup>n</sup>)</i>](Codes/TrianglePath1.cpp)
   - [Triangle path, <b><i>O(N<sup>2</sup></b>)</i>](Codes/TrianglePath2.cpp)
+  - [LIS(Longest Increasing Subsequence), <i>O(N<sup>2</sup>)</i>](Codes/LIS2.cpp)
+  - [LIS(Longest Increasing Subsequence), <i>O(N<sup>2</sup>)</i>](Codes/LIS3.cpp)
 
 - **Mathematics**
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
