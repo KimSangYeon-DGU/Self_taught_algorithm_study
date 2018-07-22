@@ -14,6 +14,7 @@
 - **Brute force**
   - [Max sum, <i>O(N<sup>3</sup>)</i>](Codes/MaxSum1.cpp)
   - [Max sum, <i>O(N<sup>2</sup>)</i>](Codes/MaxSum2.cpp)
+  - [Wild card, <i>O(N<sup>3</sup>)</i>](Codes/WildCard1.cpp)
 
 - **Divide and Conquer**
   - [Max sum, <i>O(NlogN)</i>](Codes/MaxSum3.cpp)
@@ -21,6 +22,8 @@
   
 - **Dynamic Programming**
   - [Max sum, <b><i>O(N)</i></b>](Codes/MaxSum4.cpp)
+  - [Wild card, <i>O(N<sup>3</sup>)</i>](Codes/WildCard2.cpp)
+  - [Wild card, <i>O(N<sup>2</sup>)</i>](Codes/WildCard3.cpp)
 
 - **Mathematics**
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
