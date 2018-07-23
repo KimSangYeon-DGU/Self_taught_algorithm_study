@@ -16,6 +16,7 @@
   - [Max sum, <i>O(N<sup>2</sup>)</i>](Codes/MaxSum2.cpp)
   - [Wild card, <i>O(N<sup>3</sup>)</i>](Codes/WildCard1.cpp)
   - [LIS(Longest Increasing Subsequence), <i>O(N<sup>3</sup>)</i>](Codes/LIS1.cpp)
+  - [Recursive sum, <i>O(N)</i>](Codes/RecursiveSum.cpp)
 
 - **Divide and Conquer**
   - [Max sum, <i>O(NlogN)</i>](Codes/MaxSum3.cpp)
