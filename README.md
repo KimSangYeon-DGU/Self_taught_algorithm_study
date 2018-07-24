@@ -18,7 +18,7 @@
   - [LIS(Longest Increasing Subsequence), <i>O(N<sup>3</sup>)</i>](Codes/LIS1.cpp)
   - [Recursive sum, <i>O(N)</i>](Codes/RecursiveSum.cpp)
   - [Paring, <i>O(∏(2n-1))</i>](Codes/Picnic.cpp)
-    - input
+    - [input file](Inputs/Picnic.txt)
 
 - **Divide and Conquer**
   - [Max sum, <i>O(NlogN)</i>](Codes/MaxSum3.cpp)
