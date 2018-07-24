@@ -44,6 +44,7 @@
 
 - **Search**
   - [Sequential search, <b><i>O(N)</i></b>](Codes/SequentialSearch.cpp)
+  - [Binary search, <b><i>O(logN)</i></b>](Codes/BinarySearch.cpp)
 
 
 # Time Complexity Graph
