@@ -9,7 +9,7 @@ TC: test case
 n: the number of children 
 m: the number of friend pair
 
-Time Complexity: O(N)
+Time Complexity: O(¢³(2n-1), i = 1 ... n)
 */
 
 #include <iostream>
