@@ -1,5 +1,5 @@
 /*
-Idex: p.234
+Idex: p.131
 Title: Binary search
 Description: Given array A, find the index of x
 Time Complexity: O(logN)
