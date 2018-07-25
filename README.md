@@ -72,13 +72,14 @@ from <i>https://en.wikipedia.org/wiki/Time_complexity</i>
     - **Codeground**
       - https://www.codeground.org/
 
-- Related to Reference
+- Related to [Reference]#reference
     - Algorithmic Problem Solving strategies 
         - http://book.algospot.com/index.html
   
 # Reference
 [Korean books]
 <div>
+    Algorithmic Problem Solving Strategies
     <img align="left" img src="Images/book_algorithmic_problem_solving_strategies1.png", width="219">
     <img align="left" img src="Images/book_algorithmic_problem_solving_strategies2.png", width="219">
 </div>
