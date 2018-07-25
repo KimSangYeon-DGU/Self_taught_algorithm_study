@@ -73,7 +73,9 @@ from <i>https://en.wikipedia.org/wiki/Time_complexity</i>
   
 # Reference
 [Korean books]
-<p align="center">
-    <img src="Images/book_algorithmic_problem_solving_strategies1.png", width="480">
-    <img src="Images/book_algorithmic_problem_solving_strategies2.png", width="480">
+<p align="left">
+    <img src="Images/book_algorithmic_problem_solving_strategies1.png", width="219">
+</p>
+<p align="right">
+    <img src="Images/book_algorithmic_problem_solving_strategies2.png", width="219">
 </p>
