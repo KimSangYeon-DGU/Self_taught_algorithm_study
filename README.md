@@ -80,7 +80,7 @@ from <i>https://en.wikipedia.org/wiki/Time_complexity</i>
 ## [Korean books]
 <div>
     <div>
-        1.<b>Algorithmic Problem Solving Strategies</b>
+        <b>1. Algorithmic Problem Solving Strategies</b>
     </div>
     <img align="left" img src="Images/book_algorithmic_problem_solving_strategies1.png", width="219">
     <img align="left" img src="Images/book_algorithmic_problem_solving_strategies2.png", width="219">
