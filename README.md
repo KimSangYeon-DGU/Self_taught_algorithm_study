@@ -70,3 +70,10 @@ from <i>https://en.wikipedia.org/wiki/Time_complexity</i>
  
 - **Codeground**
   - https://www.codeground.org/
+  
+# Reference
+[Korean books]
+<p align="center">
+    <img src="Images/book_algorithmic_problem_solving_strategies1.png", width="480">
+    <img src="Images/book_algorithmic_problem_solving_strategies2.png", width="480">
+</p>
