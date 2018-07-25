@@ -77,10 +77,10 @@ from <i>https://en.wikipedia.org/wiki/Time_complexity</i>
         - http://book.algospot.com/index.html
   
 # Reference
-[Korean books]
+## [Korean books]
 <div>
     <div>
-        Algorithmic Problem Solving Strategies
+        <b>Algorithmic Problem Solving Strategies</b>
     </div>
     <img align="left" img src="Images/book_algorithmic_problem_solving_strategies1.png", width="219">
     <img align="left" img src="Images/book_algorithmic_problem_solving_strategies2.png", width="219">
