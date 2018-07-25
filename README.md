@@ -75,5 +75,5 @@ from <i>https://en.wikipedia.org/wiki/Time_complexity</i>
 [Korean books]
 <div>
     <img align="left" img src="Images/book_algorithmic_problem_solving_strategies1.png", width="219">
-    <img align="right" img src="Images/book_algorithmic_problem_solving_strategies2.png", width="219">
+    <img align="left" img src="Images/book_algorithmic_problem_solving_strategies2.png", width="219">
 </div>
