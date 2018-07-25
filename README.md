@@ -55,21 +55,22 @@
 </p>
 from <i>https://en.wikipedia.org/wiki/Time_complexity</i>
 
-# Useful sites for solving problem
-- **Topcoder**
-  - https://www.topcoder.com/community/competitive-programming/
-  
-- **BOJ(Baekjoon Online Judge, <i>Korean</i>)**
-  - https://www.acmicpc.net/
-  
-- **Codeforces**
-  - https://codeforces.com/
- 
-- **HackerRank**
-  - https://www.hackerrank.com/
- 
-- **Codeground**
-  - https://www.codeground.org/
+# Useful sites
+-  Problem Solving
+    - **Topcoder**
+      - https://www.topcoder.com/community/competitive-programming/
+
+    - **BOJ(Baekjoon Online Judge, <i>Korean</i>)**
+      - https://www.acmicpc.net/
+
+    - **Codeforces**
+      - https://codeforces.com/
+
+    - **HackerRank**
+      - https://www.hackerrank.com/
+
+    - **Codeground**
+      - https://www.codeground.org/
   
 # Reference
 [Korean books]
