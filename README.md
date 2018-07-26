@@ -17,8 +17,10 @@
   - [Wild card, <i>O(N<sup>3</sup>)</i>](Codes/WildCard1.cpp)
   - [LIS(Longest Increasing Subsequence), <i>O(N<sup>3</sup>)</i>](Codes/LIS1.cpp)
   - [Recursive sum, <i>O(N)</i>](Codes/RecursiveSum.cpp)
-  - [Paring, <i>O(∏(2n-1))</i>](Codes/Picnic.cpp)
+  - [Picnic, <i>O(∏(2n-1))</i>](Codes/Picnic.cpp)
     - [input file](Inputs/Picnic.txt)
+  - [Fan Meeting, <i>O(N<sup>log3</sup>)</i>](Codes/FanMeeting.cpp)
+    - [input file](Inputs/FanMeeting.txt)
 
 - **Divide and Conquer**
   - [Max sum, <i>O(NlogN)</i>](Codes/MaxSum3.cpp)
