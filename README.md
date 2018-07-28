@@ -20,7 +20,9 @@
   - [Picnic, <i>O(∏(2n-1))</i>](Codes/Picnic.cpp)
     - [input file](Inputs/Picnic.txt)
   - [Fan Meeting, <i>O(N<sup>log3</sup>)</i>](Codes/FanMeeting.cpp)
-    - [input file](Inputs/FanMeeting.txt)
+    - [input file](Inputs/FanMeeting.txt) 
+  - [Friends with allergy, <i>O(N*M*2<sup>M</sup>)</i>](Codes/FriendsWithAllergy.cpp)
+    - [input file](Inputs/FriendsWithAllergy.txt)
 
 - **Divide and Conquer**
   - [Max sum, <i>O(NlogN)</i>](Codes/MaxSum3.cpp)
