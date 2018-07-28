@@ -1,0 +1,13 @@
+3
+4 6
+x o o o x x
+x x x x o o
+o x o x o x
+o o x x x o
+3 3
+x x x
+x x x
+x x x
+2 2
+o o
+o o
