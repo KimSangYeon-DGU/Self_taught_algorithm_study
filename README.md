@@ -10,6 +10,11 @@
 # Why do you make this repository?
 - Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient study road map.
 
+# Learning Road-map
+- 1. Algorithmic Problem Solving Strategies one-time read (skimming step)
+    obj 1.> Study overall algorithms in the book
+    obj 2.> Learn how to think 
+
 # [Uploaded Algorithms List](Codes/)
 - **Brute force**
   - [Max sum, <i>O(N<sup>3</sup>)</i>](Codes/MaxSum1.cpp)
