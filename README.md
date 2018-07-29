@@ -11,7 +11,7 @@
 - Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient learning roadmap.
 
 # Learning Roadmap
-<b>1. Algorithmic Problem Solving Strategies one-time read (skimming step)</b>
+<b>1. Read Algorithmic Problem Solving Strategies one-time (skimming step)</b>
 - obj 1.> Study overall algorithms in the book
 - obj 2.> Learn how to think
 
