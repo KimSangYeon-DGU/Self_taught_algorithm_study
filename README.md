@@ -8,7 +8,7 @@
 </p>
 
 # Why do you make this repository?
-- Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient study road map.
+- Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient learning roadmap.
 
 # Learning Roadmap
 <b>1. Algorithmic Problem Solving Strategies one-time read (skimming step)</b>
