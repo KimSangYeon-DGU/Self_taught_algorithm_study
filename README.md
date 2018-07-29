@@ -44,6 +44,8 @@
   - [JLIS(Joined Longest Increasing Subsequence), <i>O(N<sup>3</sup>)</i>](Codes/JLIS.cpp)
   - [Number game, <i>O(N<sup>2</sup>)</i>](Codes/NumberGame.cpp)
     - [input file](Inputs/NumberGame.txt)
+  - [Sushi, <i>O(N<sup>2</sup>)</i>](Codes/Sushi.cpp)
+    - [input file](Inputs/Sushi.txt)
     
 - **Mathematics**
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
