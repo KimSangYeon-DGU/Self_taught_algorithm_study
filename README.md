@@ -11,10 +11,10 @@
 - Through trial and error, I want to provide everyone to be interested in algorithm and data structure with the most efficient study road map.
 
 # Learning Roadmap
-1. Algorithmic Problem Solving Strategies one-time read (skimming step)
+<b>1. Algorithmic Problem Solving Strategies one-time read (skimming step)</b>
     
-    obj 1.> Study overall algorithms in the book
-    obj 2.> Learn how to think 
+    <br>obj 1.> Study overall algorithms in the book</br>
+    <br>obj 2.> Learn how to think</br>
 
 # [Uploaded Algorithms List](Codes/)
 - **Brute force**
