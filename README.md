@@ -12,8 +12,8 @@
 
 # Learning Roadmap
 <b>1. Algorithmic Problem Solving Strategies one-time read (skimming step)</b>
-    - obj 1.> Study overall algorithms in the book
-    - obj 2.> Learn how to think
+- obj 1.> Study overall algorithms in the book
+- obj 2.> Learn how to think
 
 # [Uploaded Algorithms List](Codes/)
 - **Brute force**
