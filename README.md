@@ -46,6 +46,7 @@
     - [input file](Inputs/NumberGame.txt)
   - [Sushi, <i>O(N<sup>2</sup>)</i>](Codes/Sushi.cpp)
     - [input file](Inputs/Sushi.txt)
+  - [Fibonacci sequence, <i>O(N)</i>](Codes/FibonacciSequence1.cpp)
     
 - **Mathematics**
   - [Prime factorization, <i>O(size of number)</i>](Codes/PrimeFactorization.cpp)
