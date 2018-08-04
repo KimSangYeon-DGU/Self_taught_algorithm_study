@@ -1,3 +1,19 @@
+/*
+Idex: p.432
+Title: Allergy
+Description:
+There are n friends and m foods
+calculate the minimum number of foods that all of friends can eat
+
+Input:
+test case (TC<=50)
+In the first line at each test case, It was given "n", the number of friends, and "m", the number of foods
+In the next line, It was given friends name in string
+and then In the next m line, It was given the information of foods
+
+Time Complexity: O(N^2)
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
