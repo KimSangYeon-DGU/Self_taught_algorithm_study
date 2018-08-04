@@ -62,7 +62,7 @@
   - [Sequential search, <b><i>O(N)</i></b>](Codes/SequentialSearch.cpp)
   - [Binary search, <b><i>O(logN)</i></b>](Codes/BinarySearch.cpp)
   
-- **Combinatorial Search
+- **Combinatorial Search**
   - [Allergy, <b><i>O(N<sup>2</sup></b>)</i>](Codes/Allergy.cpp)
     - [input file](inputs/Allergy.txt)
 
