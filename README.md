@@ -64,7 +64,7 @@
   
 - **Combinatorial Search**
   - [Allergy, <b><i>O(N<sup>2</sup></b>)</i>](Codes/Allergy.cpp)
-    - [input file](inputs/Allergy.txt)
+    - [input file](Inputs/Allergy.txt)
 
 
 # Time Complexity Graph
