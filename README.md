@@ -65,7 +65,9 @@
 - **Combinatorial Search**
   - [Allergy, <b><i>O(N<sup>2</sup></b>)</i>](Codes/Allergy.cpp)
     - [input file](Inputs/Allergy.txt)
-
+- **Greedy Method**
+  - [Lunch box, <b><i>O(N)</i></b>](Codes/LunchBox.cpp) 
+    - [input file](Inputs/LunchBox.txt)
 
 # Time Complexity Graph
 <p align="center">
